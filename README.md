@@ -1,5 +1,5 @@
 # Laravel-WebGram-app
-This is a website that clones the functionalities of Instagram. It was built based on Laravel framework.
+This is a website that clones some functionalities of Instagram, such as follow button, feed of the followers, add posts, etc. It was built based on Laravel framework.
 
 ### Laravel installation and environment set up.
 * install composer dependency manager for PHP.
